@@ -1,4 +1,5 @@
-# Anotações sobre o curso Manipulando o DOM
+# Minhas anotações sobre o curso Manipulando o DOM
+#### Curso feito na DIO ([Digital Innovation One](https://digitalinnovation.one/)):
 
 ## Objetivos do curso:
 
