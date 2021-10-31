@@ -25,4 +25,4 @@
 
 ## Exemplo
 
-![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+![Exercício Dark Mode e Light Mode](https://github.com/CarvalhoNathan/DOM/blob/main/assets/img/dark-mode-exercicio.gif)
