@@ -11,5 +11,5 @@
 
 - [Aula 1](https://github.com/CarvalhoNathan/DOM/blob/main/O%20que%20%C3%A9%20DOM%20e%20BOM.md) - O que é o DOM e BOM
 - [Aula 2](https://github.com/CarvalhoNathan/DOM/blob/main/Selecionando%20elementos.md) - Selecionando elementos
-- Aula 3 - Trabalhando com estilos
+- [Aula 3](https://github.com/CarvalhoNathan/DOM/blob/main/Trabalhando%20com%20estilos.md) - Trabalhando com estilos
 - Aula 4 - Eventos
